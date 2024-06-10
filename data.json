@@ -1,0 +1,1 @@
+[{"id": 1, "name": "John Doe", "age": 30, "attribute": {"height": 176, "weight": 80}}, {"id": 2, "name": "Alice Smith", "age": 28, "attribute": {"height": 167, "weight": 55}}, {"id": 3, "name": "Bob Johnson", "age": 35, "attribute": {"height": 192, "weight": 85}}]
